@@ -1,5 +1,7 @@
 # AI Playlist Generator 🪩✨
 
+![App Screenshot](screenshot.png)
+
 A sparkly, Taylor-inspired AI playlist generator built with Streamlit.  
 Generate playlists based on mood, activity, and energy, with themed vibes and Spotify links.
 
